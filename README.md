@@ -1,5 +1,5 @@
-# Arudino-Avengers
-🌱 Moisture and Humidity-Based Irrigation Control System
+# 🌱 Moisture and Humidity-Based Irrigation Control System
+ 
 An IoT-enabled smart irrigation solution that automates plant watering based on real-time soil moisture and humidity levels. Built using React, Node.js, Express.js, MongoDB, and MQTT protocol, this project ensures efficient water usage and remote monitoring via a secure web interface.
 
 🔧 Tech Stack
